@@ -2,3 +2,5 @@ Initial test
 New line for test
 
 This are the first lines for the test!
+
+Last line!
